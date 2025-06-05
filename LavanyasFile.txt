@@ -1,1 +1,3 @@
-Test file for Lab4
+Test file for Lab4 - adding more text
+
+A bunch of test text for Lab 4 on a new branch. 
